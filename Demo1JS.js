@@ -5,6 +5,7 @@
 //还是不开心
 //强迫症。
 //昏昏沉沉的一天
+//就是这么些事
  var msg= '<h2>browes window</h2><p>width: ' + window.innerWidth + '</p>'
  msg = '<p>height: ' + window.innerHeight + '</p>'
 
