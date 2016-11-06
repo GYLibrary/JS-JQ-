@@ -9,6 +9,7 @@
 //一言不合就挂机。
 //日了。
 //不记录了？
+//1
  var msg= '<h2>browes window</h2><p>width: ' + window.innerWidth + '</p>'
  msg = '<p>height: ' + window.innerHeight + '</p>'
 
